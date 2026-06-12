@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="WafGateway.TestClient/WafGateway.TestClient.csproj" />
+  <Project Path="WafGateway/WafGateway.csproj" />
+</Solution>

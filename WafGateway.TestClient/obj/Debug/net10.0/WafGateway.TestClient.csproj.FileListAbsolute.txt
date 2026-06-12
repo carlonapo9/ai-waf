@@ -1,0 +1,14 @@
+/home/carlo/ai-waf/WafGateway.TestClient/obj/Debug/net10.0/WafGateway.TestClient.GeneratedMSBuildEditorConfig.editorconfig
+/home/carlo/ai-waf/WafGateway.TestClient/obj/Debug/net10.0/WafGateway.TestClient.AssemblyInfoInputs.cache
+/home/carlo/ai-waf/WafGateway.TestClient/obj/Debug/net10.0/WafGateway.TestClient.AssemblyInfo.cs
+/home/carlo/ai-waf/WafGateway.TestClient/obj/Debug/net10.0/WafGateway.TestClient.csproj.CoreCompileInputs.cache
+/home/carlo/ai-waf/WafGateway.TestClient/bin/Debug/net10.0/WafGateway.TestClient
+/home/carlo/ai-waf/WafGateway.TestClient/bin/Debug/net10.0/WafGateway.TestClient.deps.json
+/home/carlo/ai-waf/WafGateway.TestClient/bin/Debug/net10.0/WafGateway.TestClient.runtimeconfig.json
+/home/carlo/ai-waf/WafGateway.TestClient/bin/Debug/net10.0/WafGateway.TestClient.dll
+/home/carlo/ai-waf/WafGateway.TestClient/bin/Debug/net10.0/WafGateway.TestClient.pdb
+/home/carlo/ai-waf/WafGateway.TestClient/obj/Debug/net10.0/WafGateway.TestClient.dll
+/home/carlo/ai-waf/WafGateway.TestClient/obj/Debug/net10.0/refint/WafGateway.TestClient.dll
+/home/carlo/ai-waf/WafGateway.TestClient/obj/Debug/net10.0/WafGateway.TestClient.pdb
+/home/carlo/ai-waf/WafGateway.TestClient/obj/Debug/net10.0/WafGateway.TestClient.genruntimeconfig.cache
+/home/carlo/ai-waf/WafGateway.TestClient/obj/Debug/net10.0/ref/WafGateway.TestClient.dll
