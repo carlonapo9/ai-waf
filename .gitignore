@@ -5,3 +5,21 @@ obj/
 *.sqlite
 appsettings.Development.json
 .vscode/
+
+# .NET
+bin/
+obj/
+*.user
+*.suo
+.vs/
+
+# Build outputs
+*.dll
+*.pdb
+*.exe
+
+# SQLite / local DB
+*.db
+
+# Logs
+*.log
