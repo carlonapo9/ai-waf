@@ -1,0 +1,21 @@
+@page
+@model IndexModel
+
+<h2>AI-WAF Live Dashboard</h2>
+
+<table border="1">
+    <thead>
+        <tr>
+            <th>IP</th>
+            <th>Path</th>
+            <th>Status</th>
+            <th>Time</th>
+        </tr>
+    </thead>
+
+    <tbody id="logTable">
+    </tbody>
+</table>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/microsoft-signalr/7.0.0/signalr.min.js"></script>
+<script src="/js/waf.js"></script>
